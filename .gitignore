@@ -44,3 +44,6 @@ Tools/esrgan/
 
 # 根目录下的调试截图（正式截图放在 Docs/screenshots）
 /_*.png
+
+# 根目录调试日志
+/_*.txt

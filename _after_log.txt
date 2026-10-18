@@ -1,5 +1,0 @@
-mat updated: base=1 contrast=0.45 add=0.15
-presets updated
-FireFx light cullingMask=-5633 (exclude bits 5632)
-bloom threshold set to 0.8 (was 0.5)
-new instance light mask=-5633

@@ -1,3 +1,0 @@
-mat base=1 contrast=0.45 add=0.15
-exclude mask bits=5632
-flashLight=0

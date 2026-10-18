@@ -1,4 +1,0 @@
-layers Player=9 Enemy=10 NPC=12 Door=11
-jr layer=9 name=Player
-light=3.896034 mask=-1
-mask without player layer=-513

@@ -1,1 +1,0 @@
-light=3.5368 addStrength=0.35

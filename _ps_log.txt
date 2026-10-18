@@ -1,2 +1,0 @@
-light=3.542982
-particleRenderers=2
