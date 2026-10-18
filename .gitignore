@@ -1,0 +1,46 @@
+# ===== Unity 生成目录 =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# ===== IDE / 自动生成的工程文件 =====
+.vs/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+sysinfo.txt
+
+# ===== 系统文件 =====
+.DS_Store
+Thumbs.db
+
+# ===== 本项目：临时目录 / 备份 / 工具产物 =====
+.workbuddy/
+_backup_spine4/
+_ai_redraw/
+_legacy_shaders/
+Tools/esrgan/
+*.unitypackage
+*.apk
+*.aab
+
+# 根目录下的调试截图（正式截图放在 Docs/screenshots）
+/_*.png
