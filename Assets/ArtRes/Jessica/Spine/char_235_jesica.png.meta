@@ -1,0 +1,1764 @@
+fileFormatVersion: 2
+guid: 5adba0dae3f21084299ae5d00cd99dfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2074180654835627928
+    second: char_235_jesica_0
+  - first:
+      213: 7546095266669341025
+    second: char_235_jesica_1
+  - first:
+      213: 5550926395911149754
+    second: char_235_jesica_2
+  - first:
+      213: 7953335612759153498
+    second: char_235_jesica_3
+  - first:
+      213: 1387433737098978275
+    second: char_235_jesica_4
+  - first:
+      213: 8739392649790737505
+    second: char_235_jesica_5
+  - first:
+      213: 7697837087454874567
+    second: char_235_jesica_6
+  - first:
+      213: 2484047366874639911
+    second: char_235_jesica_7
+  - first:
+      213: 2330031131976320550
+    second: char_235_jesica_8
+  - first:
+      213: -2076441926471391066
+    second: char_235_jesica_9
+  - first:
+      213: -6223140456780708567
+    second: char_235_jesica_10
+  - first:
+      213: -1837330447699830816
+    second: char_235_jesica_11
+  - first:
+      213: -2801356467291626982
+    second: char_235_jesica_12
+  - first:
+      213: 7111470578309215267
+    second: char_235_jesica_13
+  - first:
+      213: 6997225223260718382
+    second: char_235_jesica_14
+  - first:
+      213: -4637204875457913026
+    second: char_235_jesica_15
+  - first:
+      213: 3894273624958614345
+    second: char_235_jesica_16
+  - first:
+      213: 3010234791672919521
+    second: char_235_jesica_17
+  - first:
+      213: -6715058242613381339
+    second: char_235_jesica_18
+  - first:
+      213: -4711183280069444974
+    second: char_235_jesica_19
+  - first:
+      213: -4851124526259237120
+    second: char_235_jesica_20
+  - first:
+      213: 5700541975752678197
+    second: char_235_jesica_21
+  - first:
+      213: 6949355765426869046
+    second: char_235_jesica_22
+  - first:
+      213: 8223200207017752236
+    second: char_235_jesica_23
+  - first:
+      213: 6456979067355799491
+    second: char_235_jesica_24
+  - first:
+      213: 8228784106512143790
+    second: char_235_jesica_25
+  - first:
+      213: -4755677998899632578
+    second: char_235_jesica_26
+  - first:
+      213: -3602813367943955990
+    second: char_235_jesica_27
+  - first:
+      213: -3007394190437044547
+    second: char_235_jesica_28
+  - first:
+      213: -9097705021585658196
+    second: char_235_jesica_29
+  - first:
+      213: 6471309758778725680
+    second: char_235_jesica_30
+  - first:
+      213: -1553443973820670443
+    second: char_235_jesica_31
+  - first:
+      213: -3435283270702172214
+    second: char_235_jesica_32
+  - first:
+      213: -8069111679184058327
+    second: char_235_jesica_33
+  - first:
+      213: 5961451466140700854
+    second: char_235_jesica_34
+  - first:
+      213: -6922044963244860386
+    second: char_235_jesica_35
+  - first:
+      213: -1483859471983002981
+    second: char_235_jesica_36
+  - first:
+      213: 4920808512371575741
+    second: char_235_jesica_37
+  - first:
+      213: -5668689191976178624
+    second: char_235_jesica_38
+  - first:
+      213: 8100117896673475010
+    second: char_235_jesica_39
+  - first:
+      213: 6131881389083691956
+    second: char_235_jesica_40
+  - first:
+      213: 5651424824844231644
+    second: char_235_jesica_41
+  - first:
+      213: -8527547551907629707
+    second: char_235_jesica_42
+  - first:
+      213: 2872563288135265016
+    second: char_235_jesica_43
+  - first:
+      213: -6374444115512104356
+    second: char_235_jesica_44
+  - first:
+      213: 9206126359740612586
+    second: char_235_jesica_45
+  - first:
+      213: 5603806931005073910
+    second: char_235_jesica_46
+  - first:
+      213: 6686361910799512594
+    second: char_235_jesica_47
+  - first:
+      213: 3700998683664326769
+    second: char_235_jesica_48
+  - first:
+      213: -6706190682597595026
+    second: char_235_jesica_49
+  - first:
+      213: -7978092351371826338
+    second: char_235_jesica_50
+  - first:
+      213: 6396571963675659645
+    second: char_235_jesica_51
+  - first:
+      213: -9072724643972344560
+    second: char_235_jesica_52
+  - first:
+      213: 5342534907569120276
+    second: char_235_jesica_53
+  - first:
+      213: 1228187004745677044
+    second: char_235_jesica_54
+  - first:
+      213: -14616957487288018
+    second: char_235_jesica_55
+  - first:
+      213: -1842823297670642568
+    second: char_235_jesica_56
+  - first:
+      213: 4034172746944214671
+    second: char_235_jesica_57
+  - first:
+      213: 3747461362744039372
+    second: char_235_jesica_58
+  - first:
+      213: -6099113097989869909
+    second: char_235_jesica_59
+  - first:
+      213: -4640455438593100837
+    second: char_235_jesica_60
+  - first:
+      213: -4714602634882152041
+    second: char_235_jesica_61
+  - first:
+      213: -2255663899154745941
+    second: char_235_jesica_62
+  - first:
+      213: 6815166041326536193
+    second: char_235_jesica_63
+  - first:
+      213: 7550451663410690468
+    second: char_235_jesica_64
+  - first:
+      213: -5946568100673705580
+    second: char_235_jesica_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: char_235_jesica_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897f67be058f8cc10800000000000000
+      internalID: 2074180654835627928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 244
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16925130aad19b860800000000000000
+      internalID: 7546095266669341025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_2
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 245
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab89f92a52ad80d40800000000000000
+      internalID: 5550926395911149754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_3
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 208
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b19f9e99cef5e60800000000000000
+      internalID: 7953335612759153498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_4
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 219
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36d2902a7214310800000000000000
+      internalID: 1387433737098978275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 221
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ccf6bcf4f884970800000000000000
+      internalID: 8739392649790737505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_6
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 222
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb4390db0634da60800000000000000
+      internalID: 7697837087454874567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_7
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 239
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eaecb4beb197220800000000000000
+      internalID: 2484047366874639911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 239
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626cc0138fee55020800000000000000
+      internalID: 2330031131976320550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_9
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 240
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8e1ffb11ffe23e0800000000000000
+      internalID: -2076441926471391066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_10
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 240
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9254936e9b6f2a9a0800000000000000
+      internalID: -6223140456780708567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 174
+        width: 36
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e797d141bd7086e0800000000000000
+      internalID: -1837330447699830816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 172
+        width: 25
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12e6dd92259f19d0800000000000000
+      internalID: -2801356467291626982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 201
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32433c210d401b260800000000000000
+      internalID: 7111470578309215267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_14
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 207
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25cbd584432b1160800000000000000
+      internalID: 6997225223260718382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 217
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f1f971cb655afb0800000000000000
+      internalID: -4637204875457913026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_16
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 197
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb4d9aa3d3b0630800000000000000
+      internalID: 3894273624958614345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_17
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 217
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5bf28189086c920800000000000000
+      internalID: 3010234791672919521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 200
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52778f23b125fc2a0800000000000000
+      internalID: -6715058242613381339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_19
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 217
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a73b784c38e9eb0800000000000000
+      internalID: -4711183280069444974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 168
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f022b12f75dacb0800000000000000
+      internalID: -4851124526259237120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_21
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 176
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b11f369b46c1f40800000000000000
+      internalID: 5700541975752678197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_22
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 176
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633d418df32117060800000000000000
+      internalID: 6949355765426869046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_23
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 204
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca63638150dae1270800000000000000
+      internalID: 8223200207017752236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_24
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 195
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf10ef404ccb9950800000000000000
+      internalID: 6456979067355799491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 195
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea559020c83823270800000000000000
+      internalID: 8228784106512143790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_26
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 171
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3662718e00700eb0800000000000000
+      internalID: -4755677998899632578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 173
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9fba3945c300ec0800000000000000
+      internalID: -3602813367943955990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 173
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe2d6beae69346d0800000000000000
+      internalID: -3007394190437044547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_29
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 175
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae691d0c757eb180800000000000000
+      internalID: -9097705021585658196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_30
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 175
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035568b60f5bec950800000000000000
+      internalID: 6471309758778725680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 187
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e92f1bfee017ae0800000000000000
+      internalID: -1553443973820670443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_32
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 144
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac774f2f01c6350d0800000000000000
+      internalID: -3435283270702172214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_33
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 144
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92847450ea1c40090800000000000000
+      internalID: -8069111679184058327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 160
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b05c09f5845bb250800000000000000
+      internalID: 5961451466140700854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_35
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 156
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c128ec7c4ffef90800000000000000
+      internalID: -6922044963244860386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_36
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 173
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9abadb0ca5486be0800000000000000
+      internalID: -1483859471983002981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 156
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb40ab35493a4440800000000000000
+      internalID: 4920808512371575741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_38
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 96
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ce922c635c451b0800000000000000
+      internalID: -5668689191976178624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_39
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 142
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9b10e8f46696070800000000000000
+      internalID: 8100117896673475010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_40
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 145
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb8921a2a1d81550800000000000000
+      internalID: 6131881389083691956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_41
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 126
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd32aa78fe4ed6e40800000000000000
+      internalID: 5651424824844231644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_42
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 132
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5753b43bea018a980800000000000000
+      internalID: -8527547551907629707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_43
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 136
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa612057156dd720800000000000000
+      internalID: 2872563288135265016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_44
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 136
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a6256a9dc6987a0800000000000000
+      internalID: -6374444115512104356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_45
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 96
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeff2b5e52bb2cf70800000000000000
+      internalID: 9206126359740612586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 92
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ed68a6b8b4cd40800000000000000
+      internalID: 5603806931005073910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_47
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 104
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21438e46bbabacc50800000000000000
+      internalID: 6686361910799512594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_48
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 104
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170200ea1b69c5330800000000000000
+      internalID: 3700998683664326769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 102
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e686cb7ea13dee2a0800000000000000
+      internalID: -6706190682597595026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_50
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 103
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ba833b64f184190800000000000000
+      internalID: -7978092351371826338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 108
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d4c1b7f4035c850800000000000000
+      internalID: 6396571963675659645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_52
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 115
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01598137105371280800000000000000
+      internalID: -9072724643972344560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_53
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 78
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41428c5413f742a40800000000000000
+      internalID: 5342534907569120276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_54
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 61
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8fd97d2956b0110800000000000000
+      internalID: 1228187004745677044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 66
+        width: 61
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f54164f11ccff0800000000000000
+      internalID: -14616957487288018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_56
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 77
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 874078679f9fc66e0800000000000000
+      internalID: -1842823297670642568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 85
+        width: 49
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86fb284db24cf730800000000000000
+      internalID: 4034172746944214671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_58
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 41
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc71cd72148a10430800000000000000
+      internalID: 3747461362744039372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 85
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baea16da3f89b5ba0800000000000000
+      internalID: -6099113097989869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_60
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3f0a26d5ac99fb0800000000000000
+      internalID: -4640455438593100837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_61
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 37
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7998ab2f1ed529eb0800000000000000
+      internalID: -4714602634882152041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_62
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 42
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5753e72a542b0e0800000000000000
+      internalID: -2255663899154745941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_63
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106c2920865549e50800000000000000
+      internalID: 6815166041326536193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_64
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1
+        width: 57
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f95ba8c798c860800000000000000
+      internalID: 7550451663410690468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: char_235_jesica_65
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499aca691db897da0800000000000000
+      internalID: -5946568100673705580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      char_235_jesica_0: 2074180654835627928
+      char_235_jesica_1: 7546095266669341025
+      char_235_jesica_10: -6223140456780708567
+      char_235_jesica_11: -1837330447699830816
+      char_235_jesica_12: -2801356467291626982
+      char_235_jesica_13: 7111470578309215267
+      char_235_jesica_14: 6997225223260718382
+      char_235_jesica_15: -4637204875457913026
+      char_235_jesica_16: 3894273624958614345
+      char_235_jesica_17: 3010234791672919521
+      char_235_jesica_18: -6715058242613381339
+      char_235_jesica_19: -4711183280069444974
+      char_235_jesica_2: 5550926395911149754
+      char_235_jesica_20: -4851124526259237120
+      char_235_jesica_21: 5700541975752678197
+      char_235_jesica_22: 6949355765426869046
+      char_235_jesica_23: 8223200207017752236
+      char_235_jesica_24: 6456979067355799491
+      char_235_jesica_25: 8228784106512143790
+      char_235_jesica_26: -4755677998899632578
+      char_235_jesica_27: -3602813367943955990
+      char_235_jesica_28: -3007394190437044547
+      char_235_jesica_29: -9097705021585658196
+      char_235_jesica_3: 7953335612759153498
+      char_235_jesica_30: 6471309758778725680
+      char_235_jesica_31: -1553443973820670443
+      char_235_jesica_32: -3435283270702172214
+      char_235_jesica_33: -8069111679184058327
+      char_235_jesica_34: 5961451466140700854
+      char_235_jesica_35: -6922044963244860386
+      char_235_jesica_36: -1483859471983002981
+      char_235_jesica_37: 4920808512371575741
+      char_235_jesica_38: -5668689191976178624
+      char_235_jesica_39: 8100117896673475010
+      char_235_jesica_4: 1387433737098978275
+      char_235_jesica_40: 6131881389083691956
+      char_235_jesica_41: 5651424824844231644
+      char_235_jesica_42: -8527547551907629707
+      char_235_jesica_43: 2872563288135265016
+      char_235_jesica_44: -6374444115512104356
+      char_235_jesica_45: 9206126359740612586
+      char_235_jesica_46: 5603806931005073910
+      char_235_jesica_47: 6686361910799512594
+      char_235_jesica_48: 3700998683664326769
+      char_235_jesica_49: -6706190682597595026
+      char_235_jesica_5: 8739392649790737505
+      char_235_jesica_50: -7978092351371826338
+      char_235_jesica_51: 6396571963675659645
+      char_235_jesica_52: -9072724643972344560
+      char_235_jesica_53: 5342534907569120276
+      char_235_jesica_54: 1228187004745677044
+      char_235_jesica_55: -14616957487288018
+      char_235_jesica_56: -1842823297670642568
+      char_235_jesica_57: 4034172746944214671
+      char_235_jesica_58: 3747461362744039372
+      char_235_jesica_59: -6099113097989869909
+      char_235_jesica_6: 7697837087454874567
+      char_235_jesica_60: -4640455438593100837
+      char_235_jesica_61: -4714602634882152041
+      char_235_jesica_62: -2255663899154745941
+      char_235_jesica_63: 6815166041326536193
+      char_235_jesica_64: 7550451663410690468
+      char_235_jesica_65: -5946568100673705580
+      char_235_jesica_7: 2484047366874639911
+      char_235_jesica_8: 2330031131976320550
+      char_235_jesica_9: -2076441926471391066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

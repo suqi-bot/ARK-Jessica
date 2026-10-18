@@ -1,0 +1,2 @@
+shader supported=True name=ARK/Sprite Normal Mapped Lit
+flash light at capture=3.980204

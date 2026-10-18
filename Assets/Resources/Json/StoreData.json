@@ -1,0 +1,6 @@
+{
+	"storeItem":{
+		"Store1":[{"itemId":1, "itemCount":2}, {"itemId":3, "itemCount":3}],
+		"Store2":[{"itemId":1, "itemCount":4},{"itemId":2, "itemCount":3}]
+	}
+}

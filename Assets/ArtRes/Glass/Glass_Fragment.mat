@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Glass_Fragment
+  m_Shader: {fileID: 4800000, guid: 3abd0258f59027c4a945ddd2c679a429, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AlphaScale: 1
+    - _AmbientBoost: 0.4
+    - _BandAngle: 0.95
+    - _BandFrequency: 0.32
+    - _BandOffset: 0
+    - _BandSharpness: 5.5
+    - _BandStrength: 0.08
+    - _DepthFade: 0.6
+    - _EdgePower: 1.25
+    - _EdgeWidth: 0.085
+    - _Flash: 0
+    - _FresnelPower: 2.6
+    - _FresnelStrength: 0.45
+    - _Gloss: 48
+    - _Reflection: 0.4
+    - _SpecIntensity: 1.1
+    m_Colors:
+    - _BandColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Color: {r: 0.62, g: 0.87, b: 0.96, a: 0.42}
+    - _EdgeColor: {r: 0.9, g: 0.99, b: 1, a: 0.85}
+    - _FlashColor: {r: 1, g: 1, b: 1, a: 1}
+    - _GroundColor: {r: 0.26, g: 0.28, b: 0.32, a: 1}
+    - _HalfSize: {r: 1, g: 1, b: 0, a: 0}
+    - _SkyColor: {r: 0.7, g: 0.82, b: 0.92, a: 1}
+    - _Tint: {r: 1, g: 1, b: 1, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

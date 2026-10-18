@@ -1,0 +1,7 @@
+instantiated at (-0.50, 0.14, -0.35)
+tick 6 light=0.1275671
+tick 18 light=2.138044
+tick 36 light=3.994055
+tick 60 light=3.907436
+tick 90 light=3.713832
+tick 130 light=3.460907

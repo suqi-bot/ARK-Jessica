@@ -1,0 +1,2 @@
+threshold orig=0.5
+light=0

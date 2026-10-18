@@ -1,0 +1,162 @@
+[
+    {
+        "task_chain_id": 1,
+        "task_sub_id": 1,
+        "icon": "Goid",
+        "desc": "主线1:打败1个源石虫",
+        "task_target": "enemy_1007_slime",
+        "target_amount": 1,
+        "award": "{\"money\": 100}",
+        "open_chain": "1|2"
+    },
+    {
+        "task_chain_id": 1,
+        "task_sub_id": 2,
+        "icon": "Goid",
+        "desc": "主线2:打败2个源石虫",
+        "task_target": "enemy_1007_slime",
+        "target_amount": 2,
+        "award": "{\"money\": 200}",
+        "open_chain": "1|3,2|1"
+    },
+    {
+        "task_chain_id": 1,
+        "task_sub_id": 3,
+        "icon": "Goid",
+        "desc": "主线3:打败3个源石虫",
+        "task_target": "enemy_1007_slime",
+        "target_amount": 3,
+        "award": "{\"money\": 300}",
+        "open_chain": "1|4"
+    },
+    {
+        "task_chain_id": 1,
+        "task_sub_id": 4,
+        "icon": "Goid",
+        "desc": "打败桥夹克里夫",
+        "task_target": "enemy_1546_cliff",
+        "target_amount": 1,
+        "award": "{\"money\": 400}",
+        "open_chain": null
+    },
+    {
+        "task_chain_id": 2,
+        "task_sub_id": 1,
+        "icon": "Goid",
+        "desc": "支线1",
+        "task_target": "branch_task1",
+        "target_amount": 1,
+        "award": "{\"money\": 100}",
+        "open_chain": "2|2"
+    },
+    {
+        "task_chain_id": 2,
+        "task_sub_id": 2,
+        "icon": "Goid",
+        "desc": "支线2",
+        "task_target": "branch_task2",
+        "target_amount": 2,
+        "award": "{\"money\": 200}",
+        "open_chain": "2|3"
+    },
+    {
+        "task_chain_id": 2,
+        "task_sub_id": 3,
+        "icon": "Goid",
+        "desc": "支线3",
+        "task_target": "branch_task3",
+        "target_amount": 2,
+        "award": "{\"money\": 300}",
+        "open_chain": "2|4"
+    },
+    {
+        "task_chain_id": 2,
+        "task_sub_id": 4,
+        "icon": "Goid",
+        "desc": "支线4",
+        "task_target": "branch_task4",
+        "target_amount": 3,
+        "award": "{\"money\": 400}",
+        "open_chain": null
+    },
+    {
+        "task_chain_id": 3,
+        "task_sub_id": 1,
+        "icon": "Goid",
+        "desc": "支线1-1",
+        "task_target": "branch_task1",
+        "target_amount": 1,
+        "award": "{\"money\": 100}",
+        "open_chain": "3|2"
+    },
+    {
+        "task_chain_id": 3,
+        "task_sub_id": 2,
+        "icon": "Goid",
+        "desc": "支线1-2",
+        "task_target": "branch_task2",
+        "target_amount": 2,
+        "award": "{\"money\": 200}",
+        "open_chain": "3|3"
+    },
+    {
+        "task_chain_id": 3,
+        "task_sub_id": 3,
+        "icon": "Goid",
+        "desc": "支线1-3",
+        "task_target": "branch_task3",
+        "target_amount": 2,
+        "award": "{\"money\": 300}",
+        "open_chain": "3|4"
+    },
+    {
+        "task_chain_id": 3,
+        "task_sub_id": 4,
+        "icon": "Goid",
+        "desc": "支线1-4",
+        "task_target": "branch_task4",
+        "target_amount": 3,
+        "award": "{\"money\": 400}",
+        "open_chain": null
+    },
+    {
+        "task_chain_id": 4,
+        "task_sub_id": 1,
+        "icon": "Goid",
+        "desc": "支线2-1",
+        "task_target": "branch_task1",
+        "target_amount": 1,
+        "award": "{\"money\": 100}",
+        "open_chain": "4|2"
+    },
+    {
+        "task_chain_id": 4,
+        "task_sub_id": 2,
+        "icon": "Goid",
+        "desc": "支线2-2",
+        "task_target": "branch_task2",
+        "target_amount": 2,
+        "award": "{\"money\": 200}",
+        "open_chain": "4|3"
+    },
+    {
+        "task_chain_id": 4,
+        "task_sub_id": 3,
+        "icon": "Goid",
+        "desc": "支线2-3",
+        "task_target": "branch_task3",
+        "target_amount": 2,
+        "award": "{\"money\": 300}",
+        "open_chain": "4|4"
+    },
+    {
+        "task_chain_id": 4,
+        "task_sub_id": 4,
+        "icon": "Goid",
+        "desc": "支线2-4",
+        "task_target": "branch_task4",
+        "target_amount": 3,
+        "award": "{\"money\": 400}",
+        "open_chain": null
+    }
+]
